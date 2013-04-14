@@ -1,0 +1,37 @@
+These header files needed for most of these questions
+
+#include<stdio.h>
+#include<stdlib.h>
+#include<math.h>
+#include<string.h>
+#include<errno.h>
+#include<signal.h>
+#include<assert.h>
+
+1. Create a program that will deal with dividing a number by another number ,
+   it must be able to deal with zero being a divisor
+
+2. Create a program that will deal with getting the square root of a number 
+   you can use the sqrt() function in math.h , but the prorgam must be
+   able to deal with the error and print that the error has occured using the 
+   error code from errno as the condition
+
+3. modify the above 
+   print out the error code and the error name using the strerror in a printing function
+   when the error occurs 
+
+4. Modify the above 
+   Using perror to print to the stderr stream the error code and error name
+
+5. Using the assert() function from assert.h file 
+   have it abort the program if the number to user enters isnt the 
+   correct one
+
+6. modify the above so that it will use raise(); from the signal.h file
+   to terminate the program if a condition is true
+
+7. Create a program that will use raise to signal an arithmetic error due to either 
+   overflow or  division by zero 
+
+8. modify the above so that the program will exit using exit(); only it signals 
+   that the program failed to the OS

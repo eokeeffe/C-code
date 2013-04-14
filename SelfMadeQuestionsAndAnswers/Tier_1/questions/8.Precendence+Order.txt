@@ -1,0 +1,75 @@
+1. Look at the below equation
+   what is wrong with it 
+   fix the equation if needed 
+   
+   10 * 4 + 15 / 5 – 2 = 50
+
+2. As above look at this equation 
+   give it parentheses to make it true
+	
+   13 - 4 x 5 / 2 +10 = 13
+
+3. Evaluate the expression 
+
+	int z = 0 ;
+	float f = 2.0;
+	
+	z += (int)(f)*(sizeof(z)); 
+ 	which operators are evaulated first and Why?
+
+4. Evaluate the expression
+
+	int variable_number = 0;
+	printf(" y= %d \r\n", (!!y) );
+	is this the same with all numbers and why?
+
+5. Evaluate the expression 
+
+	int numer_1 = 1,number_2 = 5,number_3 = 11 ,number_4 = 0;
+	
+	number_4 = ( (number_2)+=( number_2+ (number_3 *= numer_1-number_2) ));
+
+   Which of the operators come first and last here
+
+
+6. Evaluate the expression in the function 
+
+	unsigned int func(unsigned int user_number,unsigned int a)
+	{
+	 unsigned int answer;	
+	 if(a<=0){return 1;}
+	 else
+	 { 
+		answer=user_number*func(user_number,a-1);
+		return answer;
+	 }
+	}
+	
+   What does it do and how does it work ?	
+
+7. Observe this equation , is it ok or does it need to be changed
+
+	float x = 1 ;
+	x = x / --x;
+	
+	printf(" x = %f \r\n", x);
+
+8. evaluate the expression below in the printf
+   is it correct or does it need something more?
+
+   int a = 1 , b = 1, c = 0 , d=0;	
+   printf(" expression has been evaluated = %d \r\n", a & b || c  & d )  
+
+   make the expression print a zero using only parenthesis
+
+9. Is the function below correct ?
+   if not please specify why 
+
+	p == 0 ? p += 1: p += 2
+
+	
+
+10. Which operators are evaluated first 
+    fix the equation so that it equals 5
+
+	(float) sizeof(a/b+c*d) +a && b || c % d

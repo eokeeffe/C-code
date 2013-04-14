@@ -1,0 +1,555 @@
+1.c
+/*Hello World
+   Evan O'Keeffe 10324289 22/09/2010
+   This program simply prints hello world on the screen*/
+
+10.c
+/*evan o'keeffe 10324289
+	25/09/2010
+	Just playing around with the scanf 
+	and printf and trying to see if I 
+	can do anything useful with them*/
+
+11.c
+/*trying to solve a maths problems*/
+
+12.c
+/*evan o'keeffe 10324289
+	24/09/2010
+	this program takes the input colour and then places this with the words in the printf function*/
+
+13.c
+/*Evan o'keeffe 10324289
+  28/09/2010
+  WAP, this reads the base ,height and produces a triangles area
+*/
+
+14.c
+/*evan o'keeffe 10324289
+	28/09/2010
+	WAP read the radius of a circle and output its area
+*/
+
+15.c
+/*Evan o@keeffe 10324289 
+	28/09/2010
+	Euro to sterling converter
+*/
+
+16.c
+/* Evan O'Keeffe
+   10324289 
+   program to find the volume of a box*/
+
+17.c
+/*evan o'keeffe 10324289
+	24/09/2010
+	This program was made to test the scanf function 
+	which takes the input characters and places them into the 
+	function*/
+
+18.c
+/*evan o'keeffe 10324289
+	24/09/2010
+	This program converts the feet input into inces*/
+
+19.c
+/*evan o'keeffe 10324289
+	25/09/2010
+	Just playing around with the scanf 
+	and printf and trying to see if I 
+	can do anything useful with them*/
+
+2.c
+/*Evan O'keeffe 10324289
+	22/09/2010
+	This program is to demonstrate the use brackets in the printf fucntion*/
+
+20.c
+/*just messing wwith some code*/
+
+21.c
+/*force of centripetal acceleration*/
+
+22.c
+/*conservation of momentum equation*/
+
+23.c
+/*euros to dollar converter*/
+
+24.c
+/*equation for force of a coulombic charge*/
+
+25.c
+/*Evan o'keeffe 10324289
+  28/09/2010
+  WAP, this reads the base ,height and produces a triangles area
+*/
+
+26.c
+/*evan o'keeffe 10324289
+	28/09/2010
+	WAP read the radius of a circle and output its area
+*/
+
+27.c
+/*Evan o@keeffe 10324289 
+	28/09/2010
+	Euro to sterling converter
+*/
+
+28.c
+/*force of gravity equation*/
+
+29.c
+/*moments equation(perpendicular)*/
+
+3.c
+/*Evan o'keeffe 10324289
+	22/09/2010
+	This program is to present the \n 
+	function to place a line in the sentence 
+	typed in the printf fucntion*/
+
+30.c
+/*Evan o'Keeffe 10324289
+	04/10/2010
+	this program takes input variables and produces the period 
+	of a satellite or planet,then it will ask if you want the answer in seconds,minutes,hours,days*/
+
+31.c
+/*EVAN O'KEEFFE 10324289*/
+
+32.c
+/*Evan o'keeffe 10324289
+	08/10/2010
+	this program will read six salaries and displays them
+	and the difference from the average they are*/
+
+33.c
+/*Evan o'keeffe 10324289
+	08/10/2010
+	this program will read choice number of salaries and displays them
+	and the difference from the average they are*/
+
+34.c
+/*evan o'keeffe
+  10324289     */
+
+35.c
+/*Evan o'keeffe
+  10324289
+  Program that reads the string and counts the amount of spaces in it*/
+
+36.c
+/*Evan O'Keeffe
+  10324289
+  reads a string then displays the position of the character its looking for */
+
+37.c
+/*Evan O'Keeffe
+  10324289
+  this program takes a number of arrays and prints them in a formated output*/
+
+38.c
+/*Evan O'Keeffe
+  10324289
+  reads a string then displays the number of uppercase/lowercase characters its has */
+
+39.c
+/*Evan O'Keeffe
+  10324289
+  guess game with the three tries*/
+
+4.c
+/*Evan o'keeffe 10324289
+	22/09/2010
+	This program was to 
+	produce asterick's in front and behind the
+	words in the printf function*/
+
+40.c
+/*Evan O'Keeffe
+  10324289
+  takes a lower/uppercase word and transforms it into lowercase/uppercase word*/
+
+41.c
+/*Evan o'Keeffe
+  10324289
+  is a previous program only with the for loop */
+
+42.c
+/*Evan o'Keeffe
+  10324289
+  Matrix solver for 2x2,3x3,4x4 matrix determinants */
+
+43.c
+ /*Evan o'Keeffe
+ 10324289
+ learning how to use toupper and tolower and toascii*/
+
+44.c
+ /*Evan o'Keeffe
+ 10324289
+ counts the number of characters in a program*/
+
+45.c
+ /*Evan o'Keeffe
+ 10324289
+ counts the number of lines in a program*/
+
+46.c
+ /*Evan o'Keeffe
+ 10324289
+ counts the number of braces in a program*/
+
+47.c
+ /*Evan o'Keeffe
+ 10324289
+ counts the number of brackets*/
+
+48.c
+ /*Evan o'Keeffe
+ 10324289
+ this program takes two program files and reads them and tells you if
+ they are the same*/
+
+49.c
+ /*Evan o'Keeffe
+ 10324289
+ this program asks for the program to output*/
+
+5.c
+/*evan o'keeffe 10324289
+	22/09/2010
+	this program looks to put and astericks box around the printf function*/
+
+50.c
+ /*Evan o'Keeffe
+ 10324289
+ this program compares if two programs are identical or not*/
+
+51.c
+ /*Evan o'Keeffe
+ 10324289
+ acts as a file checker for equal braces and equal brackets
+ also checks for ;, ",spaces,upper and lower case characters*/
+
+52.c
+ /*Evan o'Keeffe
+ 10324289
+ this is actually a faulty program , i keep it for 51.c and 
+ the other ones so i can have an example of bad code
+ to illustrate what the program does
+ the only problem with it is its missing a '}' at the end */
+
+53.c
+ /*Evan o'Keeffe
+ 10324289
+ counts words in the file asked for*/
+
+54.c
+ /*Evan o'Keeffe
+ 10324289
+ acts as a file checker for equal braces and equal brackets
+ also checks for ;, ",spaces,upper and lower case characters*/
+
+55.c
+/*Evan o'Keeffe
+ 10324289
+ asks for user input to write something to a file from another file*/
+
+56.c
+/*Evan o'Keeffe
+ 10324289
+ this is the guess game but with the modification of
+ taking the correct word and writing it to a file*/
+
+57.c
+/*Evan o'Keeffe
+ 10324289
+ this is the guess game but with the modification of
+ taking multiple words and from a file  */
+
+58.c
+/*Evan o'Keeffe
+ 10324289
+ this program is used for the fgets and fscanf functions */
+
+59.c
+/*Evan o'Keeffe
+ 10324289
+ this program reads from a file the GPA's of six people
+ and then displays them */
+
+6.c
+/*Evan o'keeffe 10324289
+	22/09/2010
+	this program uses the float point 
+	to add the two defined integer functions 
+	then print the answer */
+
+60.c
+/*Evan o'Keeffe
+ 10324289
+ this program reads from a file the GPA's of six people
+ then displays their names and grades */
+
+61.c
+/*Evan o'Keeffe
+ 10324289
+ this program takes the users inputs 
+ for a circle and 
+ passes them to another function*/
+
+62.c
+/*Evan o'Keeffe
+ 10324289
+ this program takes the users inputs 
+ for the guessing game and passes
+ it to the function guesssecretword*/
+
+63.c
+/*Evan o'Keeffe
+ 10324289
+ this is my version of the getstr function*/
+
+64.c
+/*Evan o'Keeffe
+ 10324289
+ this is my version of the filecopy function*/
+
+65.c
+/*Evan o'Keeffe
+ 10324289
+ this is my version of the strlen function*/
+
+66.c
+/*Evan o'Keeffe
+ 10324289
+ this is my version of the myputstr function*/
+
+67.c
+/*Evan o'Keeffe
+ 10324289
+ this is my version of the strcmp function*/
+
+68.c
+/*Evan O'Keeffe
+  10324289
+  This is joes example for finding the largest value
+  Added a minimum value my self*/
+
+69.c
+/*Evan O'Keeffe
+  10324289
+  This is joes example for finding the largest value and tells you were it is
+  I added the min values function and the other parameters for min*/
+
+7.c
+/*Evan o'keeffe 10324289
+	22/09/2010
+	this program takes the three defined integers
+	and the multiplies them to get the volume of the rectangle*/
+
+70.c
+/*Evan O'Keeffe
+  10324289
+  This is joes example for finding the largest value through user input
+  index point where the number is found was added by me*/
+
+71.c
+/*Evan O'Keeffe
+  10324289
+  Multiple functions with a menu*/
+
+72.c
+/*Evan O'Keeffe
+  10324289
+  fibonaci sequence stuff
+  */
+
+73.c
+/*Evan O'Keeffe
+  10324289
+  my CAT function , works from the CMD*/
+
+74.c
+/*Evan O'Keeffe
+  10324289
+  fatal error function*/
+
+75.c
+/*Evan O'Keeffe
+  10324289
+  my getn function */
+
+76.c
+/*Evan O'Keeffe
+  10324289
+  my putn function */
+
+77.c
+/*Evan O'Keeffe
+  10324289
+  program using the getn and putn that were previously made */
+
+78.c
+/*Evan O'Keeffe
+  10324289
+  my echo program */
+
+79.c
+/*Evan O'Keeffe
+  10324289
+  my type program with readout capability*/
+
+8.c
+/*evan o'keeffe 10324289
+	24/09/2010
+	This program was made to test the scanf function 
+	which takes the input characters and places them into the 
+	function*/
+
+80.c
+/*Evan o'Keeffe
+ 10324289
+ My Filecopy function 2.0*/
+
+81.c
+/*Evan O'Keeffe
+  10324289
+  guess game with cmd entry */
+
+82.c
+/*Evan o'Keeffe
+ 10324289
+ string compare that takes user parameters from the cmd*/
+
+83.c
+/*Evan O'Keeffe
+  10324289
+  my type program with readout capability for 3 arguements*/
+
+84.c
+/*Evan O'Keeffe
+  10324289
+  reversing a string*/
+
+85.c
+/*Evan O'Keeffe
+  10324289
+  palindrome test*/
+
+86.c
+/*Evan O'Keeffe
+  10324289
+  this program is my first attempt of using assembler in C
+  Whats happening here is that I'm using inline assmebler 
+  to add the numbers 10(foo) and bar(15) together and output an answer*/
+
+87.c
+/*Evan O'Keeffe
+  10324289
+  This program is one where i started to look at WINAPI's
+  All im doing here is creating a box with the message in*/
+
+88.c
+/*Evan O'Keeffe
+  10324289
+  This program is one where I looked at how the winapi worked
+  all im doing here is defining the class and parameters of a 
+  program box with a title but the actual box has nothing in it */
+
+89.c
+/*Evan O'Keeffe
+  10324289
+  This program is one where I looked at how the winapi worked
+  all im doing here is defining the class and parameters of a 
+  program box with a title but the actual box has nothing in it
+  This one will also tell you what the name of the program that made
+  it was, in this instant is 89.exe  */
+
+9.c
+/*evan o'keeffe 10324289
+	24/09/2010
+	This program converts the feet input into inces*/
+
+cshift.c
+/*Evan O'Keeffe
+  10324289
+  This is a caesar shift encoder
+  basically what happens is that a string of characters is read in
+  then the characters are shifted by a n number of positions
+  */
+
+cshiftv2.c
+/*Evan O'Keeffe
+  10324289
+  This is a caesar shift encoder
+  basically what happens is that a string of characters is read in
+  then the characters are shifted by a n number of positions
+  
+  V2.0 allows the reading in of a file then the writing of the encoded one to another file
+  because of files being involved i decided that a caesaer cipher (historically 13 shifts)
+  isn't exactly right with the addition of all  the other ascii characters 
+  therefore i have made the wraparound the whole 255 of the character range
+  
+  Also the program will ask for the file name for the KEY output, so the person on the other end can decryt the message
+  */
+
+dcshift.c
+/*Evan O'Keeffe
+  10324289
+  This is a caesar shift decoder
+  how it works is the exact opposite that the encoder works
+  it will read in the string then it will shift it back by N shifts then 
+  write the decoded message to a new file
+  */
+
+denigma.c
+/*Evan O'Keeffe
+  10324289
+  this program decodes the enigma cipher produced by the 
+  enigma program from earlier, it isn't perfect due to the reversal problem 
+  it produces a fairly identical to pre-encoded message apart from some small artifeccts
+  
+  */
+
+enigma.c
+/*Evan O'Keeffe
+  10324289
+  This is a enigma coding machine 
+  it works by first reading the file
+  then it asks for multiple words or letters to be replace
+  then it takes the characters and shifts them by an N number of places
+  determined by the user , then its shift again , then it asks for the user to input the 
+  newly encryted file name
+  
+  for decrytion purposes the program asks the person to input the name of the file that will hold the key
+  to decryting the file , the shifts , the replacements and then finally the ORDER IN WHICH THEY COME
+  
+  */
+
+firstgame.c
+/*Evan O'Keeffe
+  10324289
+  tic-tac toe game
+  general design that I made over time with some of my own pieces
+  and some pieces some people suggested I put in
+  Their is to much to describe to simply put them here so I have tried to 
+  label what each thing is doing */
+
+messin1.c
+/*Evan O'Keeffe
+  */
+
+rewrite1.c
+/*Evan o'Keeffe
+ 10324289
+ this is the guess game but with the modification of
+ taking the correct word and writing it to a file*/
+
+tes1.c
+/*proof of concept*/
+

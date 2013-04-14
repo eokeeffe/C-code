@@ -1,0 +1,44 @@
+1. Create a simple database that will hold
+   the name if a counrty and also the 
+   extension for that country
+
+2. create a simple game database
+   in the database make sure these items are included
+
+   A. name
+   B. gamer tag
+   C. rank
+   D. email address
+   E. date joined
+
+3. Modify the above so that there can more than 1 person in the 
+   database . i.e create an array of databases and print some out
+
+4.create a struct with these details
+
+ 	A.string called part_name
+	B.string called part_section
+	C.int called part_number
+	D.float called part_price
+	E.double part_rating
+
+   struct will be called database and a struct variable 
+   called var
+
+5. modify the above so that the information will be stored in 
+   an array of structs and will print that array into a file
+   called part_database.txt
+
+6. modify the above so that the array will be populated by 
+   reading in the information from a file
+
+7. modify the above so that the array can be searched by any one of the 
+   identifiers
+
+8. modify the above program so that the file can have parts added
+   to it
+
+9. modify the above so that parts can be taken away from the database
+
+10. modify the above program so that the file will be sorted in order
+    of part name

@@ -1,0 +1,14 @@
+1. write a program that will have a pointer to a function called add 
+   have it such that when the user enters 2 numbers it will pass the 2
+   numbers into the function pointer to add and add will return the result
+
+2. modify the  program so that it will have pointers to functions called
+   add that will have 2 arguements and addv which has a variable number of arguements
+   caution : variable arguements with function pointers have to be done with pointers
+
+3. using an array of pointers to functions ,  create a menu that will call a function
+   by using the functions pointers
+   basic things to use for the functions is print hello world , clear screen 
+   maybe pascals triangle and exit the program
+ 
+   

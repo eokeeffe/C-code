@@ -1,0 +1,4 @@
+16x16_VGA_display Phone_Parts 1 16.50 4.50 
+32x32_QVGA Phone_Parts 3 15.99 9.61 
+42x42_SUPER_AMO_LED Phone_Parts 4 15.99 8.79 
+AVR_ATMEGA16 Micro-Controllers 2 22.49 8.50 

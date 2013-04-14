@@ -1,0 +1,42 @@
+1. create a program that contains 
+   a function that will take 2 variables 
+   they will be of type int
+   and return the added value
+
+2. modify the above program so that it will
+   show the summation of numbers upto the 20th summation 
+   starting from zero
+
+3. modify the above again to have it deal with 
+   integers and doubles in the arguements , every second number will be a double
+
+4. modify the above so that the first arguement is a string that 
+   will tell the function whether to add , subtract , multiply or divide the numbers
+   for simplicity have it only take floats
+
+5. make a program that will take multiple
+   characters and print them out one by one
+   
+6. modify the above program so that it will take multiple
+   strings and print them out one by one
+
+7. Using the variable arguements listing 
+   create your own function that
+   will print out integer arrays 
+
+8. create your own version of printf that will work with
+   1.characters,
+   2.strings,
+   3.floats(floats are upgraded to double through
+   the varaible list functions), also you canuse fprintf only for floats
+   4.integer of what was entered
+   5.octal of what was entered
+   6.hexadecimal of what was entered
+   7.binary form of what was entered
+
+	for simplicity only numbers will be converted
+	not characters or strings
+        and arguements will only be printed in the 
+        order they were entered
+	
+	But if you feel like it , do them all

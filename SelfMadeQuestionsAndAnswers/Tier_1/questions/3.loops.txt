@@ -1,0 +1,51 @@
+1. Create a program that will print out the message
+   Hello World 3 times 
+
+2. modify the above so that it will print the sentences 
+   on 3 seperate lines
+
+3. create a program that will take user input and 
+   add numbers to each other until 5 numbers have been entered 
+
+4. write a program that will increment an integer x = 0 
+   and a = 0
+   have the run while loop until either a <= 10 or x <= 10
+   and print them out 
+   What has happened and why 
+
+5. create a program that will draw a box using asterisks
+   on the screen with a while loop 
+
+6. modify the above so that it will print out the box using
+   a for loop
+
+7. write a program that will contain 3 loops
+   a while , do-while and for 
+   there will be a number ,  int x = 0
+   each loop will increment the number by 1 
+   have the condition where it ends when x < 3
+   and print out the answer , any variances in the the way they work?
+
+8. modify the above program and have the stopping condition
+   be 3 and int x = 3 
+   increment x in each loop and comment on what happens 
+   and why
+
+9. write a program that will have a stopping condition 
+   of x < 10 
+   int x = 0 
+   have the loop contain a scanf that accepts an integer
+   now firstly enter a character in the loop 
+   Comment on what happens and why
+
+10. Modify the above program so that the scanf is the control statement
+    and it accepts a number between 1-5 to stop
+
+
+
+Optional questions:
+
+1. A tricky one 
+   modify question 1 so that the printf will print Hello World 
+   without using the semi-colon
+   

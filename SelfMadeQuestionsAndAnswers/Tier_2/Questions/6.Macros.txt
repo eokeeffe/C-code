@@ -1,0 +1,52 @@
+1. using the macros , create two macros for the 
+   block statement brackets(curly braces)
+   and create a program using it 
+	Example :
+
+	#include<stdio.h>
+	#define start {
+	#define end }
+
+	int main()
+	start
+	
+	printf("Hello World\r\n");
+	
+	return 0;
+	end
+	 
+	example cannot be used
+
+2. Create a macro that will mimic the printf function
+   call it print
+
+3. modify the above so that the print will print something 
+   the user inputs
+
+4. create your own macro using the stdio macro , print the name of the function that called this macro 
+   .The program will print this at execution time
+
+5. create your own macro using the stdio macro, print the name of the file that is being executed
+   , this printing will occur during execution time
+
+6. create your own macro using the stdio macro , create a program that will give you the 
+   date and time that the program was compiled at
+
+7. create your own macro using the stdio macro , create a program that will tell you whether the 
+   current compilation follows the ANSI C standard
+
+8. Using what you've learned from programs 4-7 , create a program that will take all of these macros and print them to 
+   a file called compilation_log.txt
+
+9. using the macros create a program 
+   that looks like pseudo-code 
+   To illustrate , create a program that will 
+   printout 10 of the mersenne primes
+
+10. using the above , place all macros in a header file called
+    my_macro.h
+    Create a program that will use the header file and run the 
+    mersenne program from there
+	to include your own header file
+	simple use #include "my_macro.h"
+	and make sure it is in the same directory

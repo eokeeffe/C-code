@@ -1,0 +1,48 @@
+1. Using command line arguements make a simple echo
+   function of your own
+	i.e you get print to the screen the first arguement
+
+2. using command line arguements , make a program 
+   that will print out the arguements passed 
+   to the program
+
+3. taking command line arguements 
+   make  a program that will print out N command 
+   line arguements
+
+4. taking command line arguements 
+   take the file copy program(cp) and 
+   modify it so that the program 
+   will take the name of the file to copy and 
+   the new files name from the command line
+
+5. taking command line arguements modify the 
+   LINT program you created and modify it so 
+   that the filename will be taken from the 
+   command line 
+   (
+	checks for even number of braces,curly brackets
+	single/double quotes etc . 
+   )
+
+6. modify the string compare program you wrote to take 
+   the strings from command line
+
+7. modify the file compare program
+   to take the filenames from command line 
+   arguements , it will give in percentages how much 
+   the files are the same
+
+8. using the script printing program (type) you made earlier
+   modify it so that it will print out whats entered in the 
+   command line (the one that will print a certain number of lines)
+
+9. modifying the sorting program from earlier
+   have it take N word arguements and print out 
+   in order of alphabetical words entered by the user
+
+10. create a program that will be called searchf
+   this program will take command line arguements 
+   to search for a word in a txt document and 
+   will count the number of times that the word 
+   occurs in the document

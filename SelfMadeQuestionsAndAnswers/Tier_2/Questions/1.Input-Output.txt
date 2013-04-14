@@ -1,0 +1,39 @@
+1. Write a program that uses the scanf function for input.
+   the function must be contained in a 
+   loop and be able to take errors in input
+ 	E.g
+		scanf("%d",&variable);
+		
+	user enters '?' or 'A' symbol
+	the scanf must be able to retake the character
+
+2. Modify the above program,so that it will use the fscanf function
+   for the input instead of using the scanf
+
+3. Write a program using the fprintf function to write a single
+   line in a txt document called wrtf.txt
+
+4. Modify the above program so that it opens the txt file and
+   prints it out in the console
+
+5. Modify the above so that the lines will be printed 
+   4 at a time
+
+6. Write a program that will ask the user for a filename
+   , and take user input and write it to that file
+
+7. write a program that will open a .c file and read out
+   only the first comment of the file into the console
+
+8. modify the above so that it will take the name of the 
+   file and the first comment and read it out and write it
+   to a file called Index.txt
+
+9. Create a program that will ask the user to seach for 
+   a character in a file , have it return the number of times
+   that character occurs in a file
+
+10. Modify question 8 so that it will extract the first comment from each
+    file and print the file name and the first comment into the 
+    a file called Index.txt
+

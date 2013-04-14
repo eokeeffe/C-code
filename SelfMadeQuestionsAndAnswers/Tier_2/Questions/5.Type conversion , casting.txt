@@ -1,0 +1,124 @@
+1.  Is this hierarchy correct ?
+    Is there anything that shouldn't be there?
+    Where should the data types be and why ?
+	
+	A.Long Double
+	B.Complex
+	C.Double
+	D.long float
+	E.float
+	F.short float
+	G.long int
+	H.int
+	I.char
+	J.short int
+	
+
+2. What is this type casting doing ?
+
+	#include <stdio.h>
+	#include <stdlib.h>
+ 
+	int main()
+	{
+	  printf( "%c , %d\n", (char)65 , (int)'A');
+ 
+ 	   getchar();
+	}
+
+3. Are these assignement casts valid ? and why are they ?
+  which ones shouldn't be assgined here?
+	
+	char c;
+ 	int i;
+	float f;
+	double d;
+
+	i=c;
+	f=i;
+	d=f;
+
+4. Are these arithmetic conversion valid ?
+  comment on what happens to the variables in each case
+ 
+	char c;
+	short int s;	
+	int i;
+	unsigned int u;
+	long int l;
+	unsigned long int ul;
+	float f;
+	double d;
+	long double ld;
+
+	i=i+c;
+	i=i+s;
+	u=u+i;
+	l=l+u;
+	ul=ul+l;
+	f=f+ul;
+	d=d+f;	
+	ld=ld+d;
+
+5. what is the problem with this casting ?
+
+	#include<stdio.h>
+	
+	int main()
+	{
+		int num1;
+		float num2;
+
+		num1 = num2;
+		return 0;
+	}
+
+6. Will this work ?
+
+	#include<stdio.h>
+
+	int main()
+	{
+		double num1;
+		num1=(22/7);
+		long float num2;
+	
+		num2 = num1;
+		return 0;
+	}
+
+7. Where in the this segment is there a problem and
+   what is the problem with this code ?
+   
+
+    int i= 16777217;
+    float f= 16777217.0;
+    printf("The integer is: %i\n", i);
+    printf("The float is:   %f\n", f);
+    printf("Their equality: %i\n", i == f);
+
+8. what is the problem with this equation ?
+	
+	int x,y;
+	x=7;y=5;
+	int z=x/y;
+	
+  does this solution fix the problem ?
+
+	(float)z = x / y;
+
+9. this simple function will take 2 numbers and divide one by the other
+  what is the problem with the casting here ?
+
+	float divide(int dividend,int divisor)
+	{
+		return ( (float) dividend / divisor );
+	} 
+
+10. What is the usage of these casts ? 
+    is there anything wrong with them ?  
+    What kind of casts are they ? 	
+
+	int *ia = (int[]){1,3,5,7};
+
+	char *p = (char[]) "abc";

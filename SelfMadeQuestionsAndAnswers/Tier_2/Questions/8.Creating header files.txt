@@ -1,0 +1,50 @@
+1. Create a simple header file that will 
+   have a function that will print out 
+   Hello World 
+
+2. Create a header file that contains the function declarations 
+   and functions for listed functions 
+
+	A.Your function to clear a screen
+        b.Your safe version of scanf
+	c.Your version of gets
+
+3. Modify the above so that the functions can be used in another file
+   , this means the function declarations are followed by the block functions
+
+4. Create a header file that will contain some Handy Macros that you made in the previous section
+   use them in an example program
+	ones that will really be handy 
+		A.The error log macro
+		B.The dump message
+		C.the compiled program information
+
+5. Create a header file that will contain a simple structure called student_data
+  the structure will contain these variables
+  A.string for name
+  B.int for student number
+  C.string for degree name
+  
+  Then use the header file in a program and access the struct and create a student in it 
+  and print out the details of that student
+
+6. Create a header file that contains a set of functions for a stopwatch
+   E.G a function to get the current time , a function to get the time since being pressed
+ 
+7. Modify the above so that there are two extra functions , one to convert seconds to minutes
+   and another to convert minutes to hours
+
+8. modify the above so that the header has idempotency guards built in to test that it hasn't already been included
+   and to check that time.h hasn't already been included
+
+9. Modify the program so that it will know if the compiler is Ansi standard or not, if its not Ansi C then 
+   the program will close
+
+10. Modify the above header file so that it will use macro pre-processor definitions to add the appropriate 
+   system time header file for a C and a C++ program 
+   E.G the program will include "time.h" for a c program and "ctime" for a c++ file
+   Also included commented out Examples on how to use the header file
+ 
+	Congratulations You now have created a full header file with all the safe guards of a 
+  	proper programmer , everything here has been to the Ansi standard so please try to keep
+ 	to it

@@ -1,0 +1,42 @@
+1. write a program that has a pointer to an int
+   print out the value of that int using the pointer
+
+2. write a program that has a pointer to an int
+   have the pointer be passed to another function 
+   change the value , print out the value of the 
+   memory location and the value inside the memory location
+   before and after changing it
+
+3. write a program that has a pointer to a character
+   have the user pass it through a function and print it
+   in that function
+
+4. like above , write a program that has a array of 
+   pointers of type char have the user enter a word 
+   and display that word using the pointer array in
+   another function
+
+5. Using the above , modify the string in the memory locations
+   so that it will be printed backward and not just printed backward
+
+6. write a program that will swap pointers that won't swap the 
+   memory locations but simply whats held in them
+	eg. 
+		Swap(int *a,int *b){}
+	Example:
+
+		user enters 1,2
+
+		console returns 2,1 
+
+7. create a number search function that will scan through an array
+   and show where it shows in memory
+
+8. create a letter search function that will scan a pointer to a string
+   for a letter and show the memory location it is held in
+
+9. create a program that will sort the contents of an array
+    of numbers using any sort method E.G bubble sort
+
+10. create a string swap function that will operate using pointers
+    to strings

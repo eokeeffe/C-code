@@ -1,0 +1,40 @@
+1. write a program to take user input for a colour and display Cool ,
+   I like (Colour chosen)
+
+2. taking user input , accept a string and turn all the letters 
+   to upper case
+
+3. modify the program so that string will be converted to all 
+   lowercase characters
+
+4. write a program to accept a string from the user and have the 
+   string turned into its ascii equivalent and print it
+   then turn it back into its regular form and print again
+
+5. taking user input , using two methods of input 
+   scanf and gets , enter the words "HELLO WORLD"
+   and print out the words from both input takings
+   Comment on what happens and why 
+
+6. write a program that will accept a string from the user 
+   and reverse letter for letter the string inputed
+
+7. Modify the above program so that it will compare the 
+   the string to the reversed string using strcmp 
+   Comment on what is printed out from strcmp and what this means 
+
+8. write a program that will take two words from two strings
+   and put them into one string and print it out
+   Example: user enters John , then Smith 
+	program prints out JohnSmith
+ 
+9. taking two string inputs , concatenate the second input into the first
+   and have a space between the concatenated words
+   Don't use a loop here
+
+10. write a program that takes a string from the user
+   and gets the lenght of a string and prints it
+	Your not allowed use the strlen function here
+
+
+Optional questions:

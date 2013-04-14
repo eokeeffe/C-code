@@ -1,0 +1,88 @@
+1. Comment on what this recursive function is doing 
+   what are the conditions of the recursion?
+
+	void recurse ( int size )
+	{
+	  if ( size == 0 ){return; }   
+ 	  recurse ( size - 1 ); 
+	}
+	int main()
+	{
+ 		 recurse ( 10 ); 
+	}
+
+2. comment on this recursive function , what does it do
+   what are the conditions of the recursion?
+
+	int add(int a,int m);
+
+	main()
+	{
+	    int a ,b,e;
+	    b=2;
+	    a=3;
+	    e=add(a,b);
+	    printf("The value of addition is %d\n",e);
+	}
+	
+	int add(int c,int d)
+	{
+	    if(d==0){return(c);}
+
+  	  else{return(1+add(c,d-1));}
+	}
+
+	
+
+3. What is this function doing ?
+   what are the conditions of the recursion?
+
+	unsigned long func(unsigned long);
+
+	int main(void)
+	{
+ 		 unsigned long number = 0L;
+ 		 printf("\nEnter an integer value: ");
+ 		 scanf(" %lu", &number);
+ 		 printf("\nThe answer of %lu is %lu\n", number, func(number));
+ 		 return 0;
+	}
+
+	unsigned long func(unsigned long n)
+	{
+		  if(n < 2L){return n;}
+		  else
+		    {return n*func(n - 1L);}
+	}
+
+4. What is this recursive function doing ?
+   what are the conditions of the recursion?
+
+	#include <stdio.h>
+
+	long func( long n ); 
+
+	int main()
+	{
+	   long result; 
+	   long number; 
+
+ 	  printf( "Enter an integer: " );
+ 	  scanf( "%ld", &number );
+
+ 	  result = func( number );
+
+ 	  printf( "func( %ld ) = %ld\n", number, result );
+   
+ 	  return 0;
+
+	}
+
+	long func( long n )
+	{
+ 	  if ( n == 0 || n == 1 ) 
+		{return n;} 
+ 	  else 
+		{return func( n - 1 ) + func( n - 2 );} 
+   
+	}

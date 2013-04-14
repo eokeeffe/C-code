@@ -1,0 +1,43 @@
+1. Write a guessing program that will only print a message 
+   if the right letter is entered
+
+2. modify the above so that it will only print the message 
+   if the right word is entered
+
+3. modify the above so that it takes a user name and 
+   a password and if the user name and password are the same 
+   then it prints a message
+
+4. modify the above so that it will only accept the wrong answer
+   3 times before closing
+
+5. write a program that will ask the user a question
+   the user will answer either yes or no 
+   and the program will print out a message for either yes or no
+
+6. write a program that will ask for an amount, it will then 
+   return whether that amount has a specific coin for it (euro-zone)
+	The program will use a switch statement to achive this
+
+7. write a program that will show a menu of options
+ 
+   A.Print Hello World
+   b.Clear the screen 
+   C.Exit program
+
+   if none of the letters shown aren't entered then 
+   print "Sorry but Please enter A,B,C and try again"
+   The program will deal with both higher and lowercase 
+   letters
+
+8. write a program that will take a string from the user
+   it will then ask the user for a letter
+   The program will then scan the string from the user and 
+   print out whether the letter is in the string or not
+
+9. modify the above so that it will say whether the letter is 
+   present and where in the string it is
+
+10. modify the above so that the user will choose a letter and
+    the program will replace all occurences of the letter 
+    another letter the user picks

@@ -1,0 +1,57 @@
+1.  write a program to print out the sum of any 2 integers
+
+2.  write a program to print out the sum of the 2 numbers 
+    from above and have only a line that declares the int's 
+    and another that will print them ,
+    no separate line for the sum
+
+3.  write a program to calculate the area of a square
+
+4.  write a program to calculate the area of a circle
+
+5.  Write a program to find the average of 4 numbers that will result in
+    a fraction
+
+6.  write a program to find the volume of a rectangle
+
+7.  write a program to find the volume of a sphere
+
+8.  write a program to convert degrees Celsius to Fahrenheit 
+
+9.  write a program to get the surface area of a cone
+
+10. write a program to get the energy realised from matter using E=M*C^2 
+    E is the result 
+    M is the mass and C is the constant for light (3*((10)^(18)ms)
+
+
+Optional questions:
+
+1. write a program to convert horsepower into KiloWatts
+
+2. write a program to convert degrees into radians
+
+3. write a program to convert pounds to kilograms
+
+4. write a program to convert inches to meters
+
+5. write a program to convert miles to kilometres
+
+6. write a program to get the area of a triangle 
+
+7. write a program to get the circumference of a circle
+
+8. write a program to get the distance of a line , 
+   formula = squareroot(((x2-x1)^2)+((y2-y1)^2))
+
+9. write a program to convert Euros to dollars 
+   1.00 EUR 	= 	1.44892 USD
+
+10.write a program to get the force of gravity using this equation 
+		g=gravity 
+		G=  (6.7 X 10)^(-11)
+		M1=mass 1
+		M2=mass 2
+		d= distance*distance from mass 1 to mass 2 in kilometers
+
+		g=G((m1*m2)/(d*d))

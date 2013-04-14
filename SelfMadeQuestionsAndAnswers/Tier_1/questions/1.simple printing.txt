@@ -1,0 +1,32 @@
+1. write a program to print out the sentence “Hello World”
+
+2. write a program to print out (G)NU IS (N)OT (U)NIX on the same line
+
+3. write a program to print out the same sentence above only on different lines
+	e.g
+	(G)NU
+	IS
+	(N)OT
+	(U)NIX
+
+4. create a box using asterisks around the above sentence 
+   
+5. modify the above program to beep when it has finished 
+	hint \a
+
+6. using the tabulate feed , create a postage like address box
+	e.g
+		John Smith
+		    27 MillBurrow Road
+			Co.Dublin
+				Ireland
+
+7. write a program that will ask the user for a number and have print out the 
+   number
+
+8. write a program to printout a character in the arguements field of printf
+
+9. write a program to printout a number in the arguements field
+
+10.write a program to print out the ascii value for 5 letters
+

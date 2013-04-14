@@ -1,0 +1,168 @@
+1. These are the three main file scope types
+
+   Global
+   automatic/register
+   static
+   
+   what are the main differences in the storage handling ?
+
+2. Create a file that contains this piece
+
+	for( x=0; x<10; x++)
+	{
+ 	 	for( y=0; y<10; y++)
+ 	 	{
+ 	 		  static int number_of_times = 0;
+ 	 		  number_of_times++;
+ 	 	}
+	}
+	
+   What happens and Why?
+
+3. Write a file that contains function
+   declarations for file scope
+
+4. create a header file that will hold the 
+   declarations of functions in it
+   add the file to your .c program file and use the function declarations
+   in that other file
+
+5. is the following code legal or not ? and if it is legal or not 
+   what is the value of j?
+
+	int i=1;
+
+	void f(void)
+	{
+		int j=i;
+		int i=2;
+	}
+
+
+6. create a file that will hold a global variable 
+   called count 
+   create a function within this file
+   that will also have a variable 
+   of the same type as count and use it
+   to count to 100
+   
+   print the number countained in both counts in and out 
+   of the function
+   Which count is used in file scope and block scope
+   and why does this occur ?
+
+7. look at these functions and declarations 
+    what is the scope of the all the variables
+
+int ch;
+
+int main()
+{
+...
+...
+return 0;
+}
+
+int count;
+
+int fun1()
+{
+
+	extern int number;
+	return 0;
+}
+
+int fun2()
+{
+	extern int ch;
+	return 0; 
+}
+
+int fun3()
+{
+	
+	return 0;
+}
+
+
+8. These functions are suppose to print a line of *'s
+   then the other prints 10 lines 
+  look at the following functions , what is the problem with the 
+  the declarations ?
+
+ int i;
+ void print_line(void)
+ {
+	for(i=1;i<=10;i++)
+	{
+		printf("*");
+	}
+ }
+
+ void print_all_rows(void)
+ {
+	for(i=1;i<=10;i++)
+	{
+		print_line();
+		printf("\n");
+	}
+ }
+
+
+9. Please observe the following functions and declarations below
+ 
+	int a;
+	
+	void f(int b)
+	{
+		int c;
+	}
+
+	void g(void)
+	{
+		int d;
+		{
+			int e;
+		}
+	}
+
+	int main(void)
+	{
+		int f;
+		return 0;
+	}
+
+	for each of the following scopes , list all variable and parameter visible in that scope
+  	(I).the f function
+	(II). the g function
+	(III).the block in which e is declared
+	(IV).the main function
+
+10. Please observe the following functions and declarations below
+ 
+	int b,c;
+	
+	void f(void)
+	{
+		int b,d;
+	}
+
+	void g(int a)
+	{
+		int c;
+		{
+			int a,d;
+		}
+	}
+
+	int main(void)
+	{
+		int c,d;
+		return 0;
+	}
+
+	for each of the following scopes , list all variable and parameter visible in that scope
+  	(I).the f function
+	(II). the g function
+	(III).the block in which e is declared
+	(IV).the main function

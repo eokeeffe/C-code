@@ -1,0 +1,29 @@
+1. using memory allocation , create a space for an int using malloc
+
+2. using memory allocation , allocate a space for a char using malloc
+
+3. using dynamic memory allocation , create an array of integers of size int using malloc
+
+4. using memory allocation , allocate a space for a string of characters 
+   12 places in size using malloc
+
+5. modify the above so that the memory is allocated using calloc()
+
+6. modify the above so that the space is re-allocated using realloc()
+
+7. using the above program , after the string has been printed de-allocate the memory
+   check to make sure the memory was freed and have safety guards to make sure the 
+   memory is de-allocated
+
+8. create a struct called student with these variables
+
+   A. char* name
+   B. int Student_Number
+   
+   now within your program , allocate a block of memory for that struct
+
+9. create an array of structures using the above struct and allocate 
+   4 instances of the struct
+
+10. modify the above so that if there will be more than 4 , the 
+    program will reallocate more memory for the new struct 

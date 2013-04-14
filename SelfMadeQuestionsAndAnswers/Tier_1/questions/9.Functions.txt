@@ -1,0 +1,39 @@
+1. Create a function that will swap two integers from the arguements
+
+2. create a function that will take 3 arguements , an int , a float and a double 
+
+3. create a function that will get the current time and date and display it from the system
+
+4. create a function that will return the square root of a number 
+
+5. create a function that will act like a calculator and will follow these conditions
+	-will take first arguement as a string e.g Add,Subtract,Multiply,Divide
+	-the program will take 4 number arguements 
+
+6. create a function that will print a 10X10 multiplication table in the console
+
+7. create a function that will convert seconds to minutes and return the value
+
+8. create a function that will take user input for a sentence and return the string
+   and print it 
+   
+
+9. create a function that will clear the console screen
+
+10.create a 4 functions that will
+	1. clear the screen (i.e print /n about 20-40 times) 
+	2. print a menu 
+	3. take input for the menu
+	4. print the 10x10 table
+	5. give the current time and date 
+	6. exit the program
+ 
+ 
+
+Optional questions:
+
+1. create a function that will return the logical output of a AND gate
+
+2. create a function that will return the logical output of a OR gate
+
+3. create a function that will return the logical output of a NOT gate

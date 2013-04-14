@@ -1,0 +1,90 @@
+1. Evaluate the expression (x*y+4)
+   is it the same as (((x)*(y))+4) all the time
+   Comment on why and how it can differ if these
+   expressions are declared at the top of the program
+
+	#define x 5*7+2-8
+	#define y 10*2-8+1
+
+2. using the compund statements below comment 
+   on what they do and also how they differ from the 
+   normal statements
+   show by example
+
+	a++
+	++a
+	a--
+	--a
+	a+=b
+	a-=b
+	
+3. using the other compund operators , like the above
+   comment on what they do and also how they differ
+   from normal statements
+
+	a*=b
+ 	a/=b
+	a&=b
+	a%=b
+	a^=b
+	a|=b
+	a<<=b
+	a>>=b
+	
+4. Using the more advanced conditional operator
+   the ternary operator
+	create a scenario where the conditions
+	from the expression are evaulated 
+	randomly
+	Example z= (a<b)? b :c;
+
+5. Create a function to take a integer from the user
+   and print the binary equivalent
+
+6. Evaluate the below expression
+
+	if(abs(x)< xmin){ x = (x>0)?xmin:-xmin;}
+
+7. Implement and comment on the equations
+   
+	x1=( ((-B)+(sqrt((B*B)-(4*A*C)))/(2*A) );
+
+    	x2=( ((-B)-(sqrt((B*B)-(4*A*C)))/(2*A) );
+
+   use them for these values a=2,b=4,c=2	
+
+	
+8. Evaluate the below equation and comment on what it does
+
+	double function(double number)
+	{
+		double something=10;
+		double variable_1=1,variable_2=0;
+		int count;
+	
+	
+		for(count=0;count<10;count++)
+		{
+			variable_2 = (.5) * ( variable_1 + ( number / variable_1) );
+			variable_1 = variable_2;
+		}
+		return variable_1;
+	
+	}
+
+9. Evaluate the below function and comment on what it does
+
+	double coulomb(double Q1,double Q2,double d)
+{
+	double answer;
+	double left,right;
+	left=( 1/((4*22/7)*(pow(8.854,-12))) );
+	right= (Q1*Q2)/(d*d);
+	
+	return answer=( right * left );
+}
+
+10. Using the operators , write a program that will take a year from the user
+    The program will then say whether the year is a leap year or not
+	
+   

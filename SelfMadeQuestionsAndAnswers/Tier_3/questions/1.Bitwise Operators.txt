@@ -1,0 +1,27 @@
+Most questions here will deal with Hexadecimal numbers
+
+1. create a function that will print a binary number , you ll 
+   need this for the rest of the questions
+
+2. create a program that will add 2 numbers and print the binary numbers
+
+3. using the bitwise shift operators 
+   create a function that will return a power of 2
+
+4. using the bitwise shift operators , the program will accept a 4 digit long hex number and 
+   replace the first 2 digits with the last 2 digits and the last 2 digits with the first 2
+
+   E.G User enters in Hex 1234 , program will return 3412
+
+5. Create a program that will use the below code
+   What does this code do , put the anser in your comments
+
+  using unsigned int a,b,c;
+
+  int f(a,b,c)	
+  {
+	return ( (a >> (b + 1 - c) & ~ (~0 << c) );
+  }
+
+6. modify the above program to number bits from left to right 
+   instead of right to left

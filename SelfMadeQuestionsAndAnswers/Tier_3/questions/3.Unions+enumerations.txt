@@ -1,0 +1,70 @@
+1. Create a enumeration that will contain 
+   4 directional varaibles 
+   e.g 
+       int north 
+       int south 
+       int east 
+       int west
+
+  Taking user input , print which one the user picks
+  by comparing the numbers the user enters
+
+2. create a enum with these int members
+	
+	a,
+	b,
+	c,
+	d = 6,
+	e,
+	f,
+	g = 20,
+	h
+
+3. using the above enum , print out the members
+   of it 
+   What did you find was printed out ?
+   Why did this occur ?
+
+4. create a union that contains two variables
+   an integer "a" and a double "b"
+   
+   it will also have a variable called "var"
+
+5. using the above make a program that will 
+   assign the numbers a = 2 
+   and b = 8.9876
+   print out both numbers
+   now repeat this except reverse the order of the 
+   assignment i.e b=8.9876 and a =2
+ 
+   what happens and why ?
+
+
+6. create an an enum with the members Monday,Tuesday, Wensday ...
+   not taking input get the current day and have the program 
+   print the special pizza of the day
+
+   Example:
+       if its monday then its Meat Supreme
+       if its tuesday then its Vegetarian supreme
+       if its thursday then its bacon and beef
+       and so on
+
+7.  create a structure called complex_d
+    complex_d will contain 2 variables called real and imaginary of 
+    type double
+
+
+8.  create a union of these types
+	A.char
+	B.int
+	C.float
+	D.double
+
+  call the union data
+  create a program that will take input and print out the 
+  input for each data type 
+
+9. using the above create an array of unions that will allow you to
+    take input and print all the data types out
+

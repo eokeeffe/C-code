@@ -1,0 +1,25 @@
+gcc: (2): No such file or directory
+gcc: 1: No such file or directory
+gcc: (2).c: No such file or directory
+gcc: no input files
+a.c: In function 'main':
+a.c:4:183: warning: unknown escape sequence: '\,'
+a.c:4:183: warning: unknown escape sequence: '\+'
+a.c:4:183: warning: unknown escape sequence: '\l'
+a.c:4:183: warning: unknown escape sequence: '\040'
+a.c:4:183: warning: unknown escape sequence: '\;'
+a.c:4:183: warning: unknown escape sequence: '\#'
+a.c:4:725: warning: unknown escape sequence: '\i'
+a.c: At top level:
+a.c:8:6: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'more'
+p2.c:8:8: error: 'new_cmd' undeclared here (not in a function)
+p2.c:9:8: error: 'open_cmd' undeclared here (not in a function)
+p2.c:10:8: error: 'close_cmd' undeclared here (not in a function)
+p2.c:11:8: error: 'close_all_cmd' undeclared here (not in a function)
+p2.c:12:8: error: 'save_cmd' undeclared here (not in a function)
+p2.c:13:11: error: 'save_as_cmd' undeclared here (not in a function)
+p2.c:14:8: error: 'save_all_cmd' undeclared here (not in a function)
+p2.c:15:8: error: 'print_cmd' undeclared here (not in a function)
+p2.c:16:8: error: 'exit_cmd' undeclared here (not in a function)
+p2.c: In function 'main':
+p2.c:34:19: error: expected ']' before ')' token

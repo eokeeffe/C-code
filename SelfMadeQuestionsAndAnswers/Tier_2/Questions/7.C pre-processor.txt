@@ -1,0 +1,35 @@
+1. using pre-processor directives , make a program that will say whether the 
+   machine it is running on is a Windows/Linux/Mac 32/64 bit machine
+
+2. using pre-processor directives , make a program that will test whether certain variables
+   have already been defined . Example : test whether NULL has been defined , if not then define it
+
+3. modify the above , undefine a variable and redefine it 
+	Example: in math.h Pi is defined as 3.14521... , it can be redefined as 3.14
+
+   test this by using it in a program 
+	include documentation of what and where the variable was already defined
+
+4. using pre-processor directives create a program that will only include header files
+   if they haven't already been included , this method is called idempotency
+
+5. using pre-processor directives , create a program that will  read itself out during compilation
+
+6. Create a conditional definition that will include the windows header file (windows.h)
+   if the system is windows , if not then have it use the (unistd.h)
+   for linux/mac
+
+7. Using pre-processor directives , create a version of the integer swap program except 
+   this time use only the Exclusive-Or assignement operator
+
+8. using pre-processor directives , create a program that will depending on OS
+   write an error message to the console screen , just as a reminder remember to use the error stream
+
+9. using pre-processor directives , create a program that will concatenate two token operators for a simple
+   error macro
+
+10. using pre-processor directives , create a program that will hold a definition to an error 
+    logging macro , have it use the token operators so that the macro can be used
+    for any type that may be used , string,int,float,double etc
+	The macro will print the error to the error stream and append it to a Error_log.txt
+	the file name , line number and  identifier and token will be printed

@@ -1,0 +1,42 @@
+1. create a struct called shop_parts
+   that will contain the following pieces
+
+   A.int id number
+   B.a character string for the part name
+   C. struct pointer to shop_parts called *next
+
+2. modify the above by using a typedef structure
+   instead of a regular structure
+
+3. using the above self referencing struct 
+   place something into the head of the list
+
+   N.B
+   make sure to set the tail to NULL
+   and also to deallocate the memory at the end of the program
+
+4. modify the above so that head will be switched with the 
+   tail and the list be run backwards
+
+5. using the same self referential structure 
+   create a program that can have N number of parts added
+
+6. modify the above so that the program can remove certain parts of the list
+
+7. modify the above program so that it will sort the list into one of two
+   ways the user can ask for 
+
+   A.ID number
+   B.Alphabetical
+
+8. using the same structure , modify it so that it will contain 
+   2 pointers , one called previous and one called next , the previous 
+   pointer will point to the previous structure while next will point 
+   to the next structure
+
+   Have the program be able to print the list either way one by one 
+   i.e the user is at node 2 , they choose to go forward by one 
+   the next node (node 3) is printed
+   the user then chooses to go the last node 
+   the last node (node 2) is printed
+

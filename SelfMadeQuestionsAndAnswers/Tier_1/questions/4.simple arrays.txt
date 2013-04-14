@@ -1,0 +1,50 @@
+1. write a program that has an array of integers
+   that can hold a maximum of 10 digits
+
+2. modify the above so that it takes the 10 numbers 
+   from user input
+
+3. write a program that will print out the 
+   1st , 3rd and 5th letter of a fixed string
+
+4. write a program that has an array of characters
+   of lenght 10 
+   Enter a word greater than 10 characters long 
+   What happens and Why?
+
+5. Write a program that has an array of characters
+   that is auto allocated by the compiler and 
+   taking user input , overload the array size and
+   comment on how many characters have been entered
+   and what has happened to the rest 
+
+6. write a program that has an array of strings
+   have it take each string in a loop and 
+   print out the strings in a seperate loop
+
+7. write a program that will take two strings
+   one string will use the scanf() function
+   the other will use gets()
+   preform an overflow on both and comment on 
+   what happens and which function preformed 
+   better and which worse
+
+8. write a program that has an array of characters
+   without taking input , print out the characters
+   of the array 
+   Comment on what has happened and why
+
+9. write a program that has a fixed array of 10 numbers 
+   swap every second digit with the digit before it 
+   print out the array before and after this action
+
+10.write a program that will take user input for 2 numbers
+   at a time , 10 times
+   using a loop at each number from array 1 to array 2 into a 
+   third array and print the answer
+
+Optional questions:
+
+1. write a program that will ask the user for the size 
+   of a int array, have it create the array and have the user 
+   enter all the numbers and the program print them back out

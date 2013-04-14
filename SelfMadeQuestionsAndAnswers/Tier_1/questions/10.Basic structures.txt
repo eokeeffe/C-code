@@ -1,0 +1,35 @@
+1. Create a struct with two variables
+	1. a string called student_name
+	2. an int called id_number
+   With a tag Data and a variable d
+
+2. Using the above enter a name for student with the students id
+   and print it out 
+
+3. modify the above struct so that it now has 
+   3 other variables in it ,
+	1. an int called year_start
+	2. another int called year_end
+	3. a float called GPA (Grade point average)
+   have the user enter a name,id number, starting year and ending year
+   as well as GPA into the struct members
+
+4. Using the above create 2 students and print out their details
+ 
+5. create a struct that will contain these items
+   
+	A.int day
+	b.int month
+  	c.int year
+	d.int yearday
+	e. char month_name[10]
+	
+	call the structure date
+  
+   using the above structure , have the user input
+   something for each and using all info except the year_day
+   calculate the year_day
+	E.G cannot have a negative date 
+
+
+   
